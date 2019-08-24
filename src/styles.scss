@@ -1,0 +1,10 @@
+@import "~@angular/material/prebuilt-themes/purple-green.css";
+
+html, body { height: 100%; }
+body {
+  margin: 0;
+  padding: 25px;
+  box-sizing: border-box;
+  font-family: Roboto,
+  "Helvetica Neue", sans-serif;
+}
